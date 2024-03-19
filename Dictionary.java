@@ -1,7 +1,4 @@
 // Programmer Daniel Torres Larreta
-// Class: CS 145
-// Due Date 03/15/2024
-// Lab 6: Binary Search Tree Dictionary
 // Purpose: This program will create a dictionary using a BTS to do a customer lookup
 
 import java.util.Scanner;
